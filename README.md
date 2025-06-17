@@ -1,1 +1,1 @@
-Dataset Source: (https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset)
+Dataset Source: (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
